@@ -7,5 +7,6 @@
 <th> RestingECG </th>
   <tr>
     <td>TA</td>
+    <td>hgfdhhsdc</td>
   </tr>
 </table>
