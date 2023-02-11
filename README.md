@@ -17,9 +17,15 @@
     <td>ST( segment elevation myocardial infarction )</td>
   </tr>
   
+  <tr>
+    <td>ATA</td>
+    <td>Atypical Angina</td>
+    <td>ST( segment elevation myocardial infarction )</td>
+  </tr>
+  
     <tr>
     <td>NAP</td>
     <td>Non-Anginal pain</td>
     <td>LVH( Left ventricular hypertrophy )</td>
-  </tr>
+   </tr>
 </table>
