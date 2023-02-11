@@ -17,8 +17,8 @@
     <td>ST( segment elevation myocardial infarction )</td>
   </tr>
     <tr>
-    <td>TA</td>
-    <td>Typical Angina</td>
-    <td>Normal</td>
+    <td>NAP</td>
+    <td>Non-Anginal pain</td>
+    <td>LVH( Left ventricular hypertrophy )</td>
   </tr>
 </table>
