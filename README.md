@@ -22,10 +22,9 @@
     <td>Non-Anginal pain</td>
     <td>LVH( Left ventricular hypertrophy )</td>
   </tr>
+  <tr>
+    <td>ASY</td>
+    <td>Asymptotic</td>
+  </tr>
   
-    <tr>
-    <td>NAP</td>
-    <td>Non-Anginal pain</td>
-    <td>LVH( Left ventricular hypertrophy )</td>
-   </tr>
 </table>
