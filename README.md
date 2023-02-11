@@ -7,6 +7,7 @@
 <th> RestingECG </th>
   <tr>
     <td>TA</td>
-    <td>hgfdhhsdc</td>
+    <td>Typical Angina</td>
+    <td>Normal</td>
   </tr>
 </table>
