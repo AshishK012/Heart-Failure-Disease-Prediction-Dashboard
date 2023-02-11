@@ -10,4 +10,15 @@
     <td>Typical Angina</td>
     <td>Normal</td>
   </tr>
+  
+    <tr>
+    <td>ATA</td>
+    <td>Atypical Angina</td>
+    <td>ST( segment elevation myocardial infarction )</td>
+  </tr>
+    <tr>
+    <td>TA</td>
+    <td>Typical Angina</td>
+    <td>Normal</td>
+  </tr>
 </table>
