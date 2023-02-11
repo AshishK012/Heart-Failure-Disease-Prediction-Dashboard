@@ -5,4 +5,7 @@
 <th>ChestPainType</th>
 <th> Full Form of ChestPainType</th>
 <th> RestingECG </th>
+  <tr>
+    <td>TA</td>
+  </tr>
 </table>
